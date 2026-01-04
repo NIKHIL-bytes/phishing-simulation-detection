@@ -1,0 +1,21 @@
+Subject: Urgent Account Verification Required
+
+Dear user,
+
+Your account has been suspended.
+Please verify immediately using the link below:
+http://secure-login-account.verify-now.com
+
+Regards,
+Security Team
+
+---
+
+Subject: Meeting Reminder
+
+Hello,
+
+This is a reminder for tomorrow's scheduled meeting.
+
+Thanks,
+Admin Team
